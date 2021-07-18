@@ -12,3 +12,5 @@ docker cp $docker_id:/home1/danpardo@staff.technion.ac.il/project/"$dir_1"/"$dir
 
 #done
 
+
+  
